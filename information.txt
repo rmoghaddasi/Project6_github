@@ -1,0 +1,2 @@
+This file contains some detailed information about the project.
+It gets updated during the process of working on the project.
